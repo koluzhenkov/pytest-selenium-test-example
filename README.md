@@ -20,7 +20,8 @@ Selenium-тест покрывающий следующие два кейса:
 [allure-commandline](https://docs.qameta.io/allure/#_installing_a_commandline) для генерации и просмотра отчета. 
 
 ### Развертывание и запуск
-```git clone git@github.com:koluzhenkov/pytest-selenium-test-example.git
+```
+git clone git@github.com:koluzhenkov/pytest-selenium-test-example.git
 cd pytest-selenium-test-example
 tox
 ```
