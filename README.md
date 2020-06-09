@@ -16,7 +16,7 @@ Selenium-тест покрывающий следующие два кейса:
 
 [Python](https://www.python.org/) версии 3.8 или выше  
 [tox](https://tox.readthedocs.io/en/latest/)  
-[google chrome](https://www.google.com/chrome/) или chromium
+[google chrome](https://www.google.com/chrome/) или chromium    
 [chromedriver](https://chromedriver.chromium.org/) соответствующей версии путь до которого прописан в переменной PATH  
 [allure-commandline](https://docs.qameta.io/allure/#_installing_a_commandline) для генерации и просмотра отчета. 
 
